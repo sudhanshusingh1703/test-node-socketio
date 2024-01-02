@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-websocket",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sudhanshu <sudhansu375@rediffmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
